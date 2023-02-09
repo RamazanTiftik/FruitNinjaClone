@@ -1,0 +1,8 @@
+com.atilsamancioglu.fruitninjastarter.android-pngs-0 C:\AndroidProjects\FruitNinjaClone\android\build\generated\res\pngs\debug
+com.atilsamancioglu.fruitninjastarter.android-resValues-1 C:\AndroidProjects\FruitNinjaClone\android\build\generated\res\resValues\debug
+com.atilsamancioglu.fruitninjastarter.android-rs-2 C:\AndroidProjects\FruitNinjaClone\android\build\generated\res\rs\debug
+com.atilsamancioglu.fruitninjastarter.android-mergeDebugResources-3 C:\AndroidProjects\FruitNinjaClone\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.atilsamancioglu.fruitninjastarter.android-mergeDebugResources-4 C:\AndroidProjects\FruitNinjaClone\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.atilsamancioglu.fruitninjastarter.android-merged_res-5 C:\AndroidProjects\FruitNinjaClone\android\build\intermediates\merged_res\debug
+com.atilsamancioglu.fruitninjastarter.android-android-6 C:\AndroidProjects\FruitNinjaClone\android\res
+com.atilsamancioglu.fruitninjastarter.android-debug-7 C:\AndroidProjects\FruitNinjaClone\android\src\debug\res

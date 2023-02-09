@@ -1,0 +1,5 @@
+com.atilsamancioglu.fruitninjastarter.test.android-androidTest-0 C:\AndroidProjects\FruitNinjaClone\android\build\generated\res\resValues\androidTest\debug
+com.atilsamancioglu.fruitninjastarter.test.android-androidTest-1 C:\AndroidProjects\FruitNinjaClone\android\build\generated\res\rs\androidTest\debug
+com.atilsamancioglu.fruitninjastarter.test.android-mergeDebugAndroidTestResources-2 C:\AndroidProjects\FruitNinjaClone\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.atilsamancioglu.fruitninjastarter.test.android-mergeDebugAndroidTestResources-3 C:\AndroidProjects\FruitNinjaClone\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.atilsamancioglu.fruitninjastarter.test.android-merged_res-4 C:\AndroidProjects\FruitNinjaClone\android\build\intermediates\merged_res\debugAndroidTest
